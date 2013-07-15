@@ -1,0 +1,14 @@
+{
+  "name": "styling-with-less",
+  "title": "Styling with LESS",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/styling-with-less",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonschlinkert/styling-with-less.git"
+  }
+}
